@@ -8,6 +8,8 @@
 </head>
 <body>
 <h1> Exercice :second projet avec Git  </h1>
+
+
  <?php
 $x=10;
 $tab=array(5,6,18);
