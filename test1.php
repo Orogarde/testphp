@@ -22,14 +22,14 @@ foreach ($tab as $value)
 }
 $tab=array();
 for ($i=0; $i < 100; $i++) { 
-    $tab[]=rand(0,100);
+    $tab[]=rand(0,50);
 }
 //foreach ($tab as $value )
 //{
   //  echo $value." ";
 //}
 $com=0;
-for ($j=0; $j <100 ; $j++) { 
+for ($j=0; $j <50 ; $j++) { 
 
     for ($i=0; $i <100; $i++) { 
         if ($tab[$i] == $j) 
